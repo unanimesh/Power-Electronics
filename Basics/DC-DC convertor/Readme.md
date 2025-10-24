@@ -55,9 +55,11 @@ Built entirely using **Simscape Electrical** blocks in **MATLAB R2025b**, withou
 ## Parameter Calculations (Design Equations)
 
 ### 1. Duty Cycle
+$$
 \[
 D = \frac{V_{out}}{V_{in}} = \frac{10}{24} = 0.417
 \]
+$$
 
 ### 2. Inductor Value
 Ripple current:
