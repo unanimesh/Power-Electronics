@@ -122,10 +122,6 @@ C = \frac{\Delta I_L}{8 \cdot f_s \cdot \Delta V_{out}}
 
 ```
 
----
-
-## License
-This project is licensed under the **MIT License**.
 
 ---
 
@@ -133,7 +129,7 @@ This project is licensed under the **MIT License**.
 **Animesh Kumar**  
 📧 Email: un.animesh@gmail.com 
 
-🔗 LinkedIn: https://www.linkedin.com/in/unanimesh
+🔗 LinkedIn: https://www.linkedin.com/in/un-animesh
 
 💻 GitHub: https://github.com/unanimesh 
 
